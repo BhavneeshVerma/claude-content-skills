@@ -7,7 +7,7 @@
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-F4640A)](https://claude.ai/claude-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built by Ootto](https://img.shields.io/badge/Built%20by-Ootto-1A1614)](https://www.ootto.ai)
-[![Star this repo](https://img.shields.io/github/stars/Ootto-AI/claude-content-skills?style=social)](https://github.com/Ootto-AI/claude-content-skills)
+[![Star this repo](https://img.shields.io/github/stars/BhavneeshVerma/claude-content-skills?style=social)](https://github.com/BhavneeshVerma/claude-content-skills)
 
 > Built by **[Ootto](https://www.ootto.ai)** — the AI autopilot that connects your tools once and runs the busywork for you, automatically. These skills are the manual, do-it-yourself version. [Ootto](https://www.ootto.ai) is the autopilot. **[See it in 3 minutes →](https://www.ootto.ai)**
 
@@ -141,14 +141,14 @@ Every number below is from a real run, published with the full method - not a pr
 **Claude Code plugin marketplace (recommended):**
 
 ```
-/plugin marketplace add Ootto-AI/claude-content-skills
+/plugin marketplace add BhavneeshVerma/claude-content-skills
 /plugin install claude-content-skills@ootto-content-skills
 ```
 
 **Manual (macOS / Linux):**
 
 ```bash
-git clone --depth 1 https://github.com/Ootto-AI/claude-content-skills.git
+git clone --depth 1 https://github.com/BhavneeshVerma/claude-content-skills.git
 bash claude-content-skills/install.sh
 ```
 
@@ -164,9 +164,9 @@ Both copy the skills into `~/.claude/skills/`. Restart Claude Code and the skill
 
 ## ⭐ Star this repo
 
-If these save you a content sprint, **[drop a star](https://github.com/Ootto-AI/claude-content-skills)** — it helps other small teams find them, and tells us which skill packs to build next.
+If these save you a content sprint, **[drop a star](https://github.com/BhavneeshVerma/claude-content-skills)** — it helps other small teams find them, and tells us which skill packs to build next.
 
-<a href="https://github.com/Ootto-AI/claude-content-skills"><img src="assets/star.png" alt="Star claude-content-skills on GitHub" width="420"></a>
+<a href="https://github.com/BhavneeshVerma/claude-content-skills"><img src="assets/star.png" alt="Star claude-content-skills on GitHub" width="420"></a>
 
 ## Want it on autopilot? Meet Ootto
 

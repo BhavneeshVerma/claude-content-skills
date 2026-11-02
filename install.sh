@@ -6,7 +6,7 @@ set -euo pipefail
 
 main() {
   SKILLS_DIR="${HOME}/.claude/skills"
-  REPO_URL="https://github.com/Ootto-AI/claude-content-skills"
+  REPO_URL="https://github.com/BhavneeshVerma/claude-content-skills"
   SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
   echo "Installing Ootto Content Skills..."
